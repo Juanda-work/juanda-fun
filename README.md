@@ -1,4 +1,4 @@
-# test-vue
+# juanda-fun
 
 ## Project setup
 ```
