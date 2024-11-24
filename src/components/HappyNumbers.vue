@@ -283,7 +283,7 @@ export default {
         showUnhappyMsg(){
             if (!this.isHappy && this.iterationQuantity && this.numberToSearch) {
                 this.snackbar = true;
-                this.snackbarColor = "blue";
+                this.snackbarColor = "red";
                 this.snackbarText = ` <div class="subtitle-1">
                     El número <span class="title">${this.numberToSearch}</span> no es feliz... :(
                 </div>`;
